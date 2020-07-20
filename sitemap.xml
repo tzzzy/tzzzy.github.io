@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://tzzzy.github.io/usage/_usage/</loc>
+    <lastmod>2020-07-20T22:56:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tzzzy.github.io/</loc>
+    <lastmod>2020-07-20T22:56:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tzzzy.github.io/usage/</loc>
+    <lastmod>2020-07-20T22:56:42+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tzzzy.github.io/about/_about/</loc>
+    <lastmod>2020-07-20T22:55:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tzzzy.github.io/about/</loc>
+    <lastmod>2020-07-20T22:55:55+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tzzzy.github.io/index/</loc>
+    <lastmod>2020-07-20T22:20:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tzzzy.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tzzzy.github.io/tags/</loc>
+  </url>
+  
+</urlset>
